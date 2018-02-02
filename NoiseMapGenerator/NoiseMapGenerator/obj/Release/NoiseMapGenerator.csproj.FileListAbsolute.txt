@@ -5,14 +5,7 @@ C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\R
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.Extras.dll
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.Platform.dll
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Microsoft.Practices.ServiceLocation.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Newtonsoft.Json.dll
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\System.Windows.Interactivity.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.AvalonDock.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.DataGrid.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Xceed.Wpf.Toolkit.dll
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.pdb
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.xml
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.Extras.pdb
@@ -21,17 +14,6 @@ C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\R
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\GalaSoft.MvvmLight.Platform.xml
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Microsoft.Practices.ServiceLocation.xml
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\Newtonsoft.Json.xml
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
-C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\MainWindow.g.cs
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\Views\NoiseDataView.g.cs
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\App.g.cs
@@ -47,3 +29,4 @@ C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\R
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\NoiseMapGenerator.exe
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\NoiseMapGenerator.pdb
 C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\App.baml
+C:\Users\User\Documents\DAE-Courses\Y4\NoiseMapGenerator\NoiseMapGenerator\obj\Release\NoiseMapGenerator.csprojResolveAssemblyReference.cache

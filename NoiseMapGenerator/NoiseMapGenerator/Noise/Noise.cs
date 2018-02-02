@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media.Media3D;
 using NoiseMapGenerator.Models;
-using Xceed.Wpf.Toolkit;
 
 public delegate float NoiseMethod(Vector3D point);
 

@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls.Primitives;
 using System.Windows.Media.Imaging;
-using Xceed.Wpf.Toolkit;
 
 namespace NoiseMapGenerator.Models
 {
